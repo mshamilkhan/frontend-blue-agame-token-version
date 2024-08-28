@@ -1,0 +1,175 @@
+@media (max-width:1280px) {
+
+    ul,
+    .searchbox {
+        display: none;
+    }
+
+    .navbar {
+        justify-content: space-between;
+    }
+
+    .menu {
+        margin-right: 1rem;
+
+        display: block;
+    }
+
+    .navbar img {
+        margin-left: 1rem;
+    }
+
+    .mobnav {
+        /* display: block; */
+
+    }
+
+    h1,
+    h2 {
+
+        font-size: 3vw;
+    }
+
+
+
+    .img4 {
+        width: 5rem;
+        height: auto;
+    }
+
+    .bcimg {
+        width: 7rem;
+        height: auto;
+    }
+
+    .cont2-2 {
+        flex-direction: column;
+        justify-content: center;
+        text-align: center;
+        align-items: center;
+
+    }
+
+    .cont2-2-1 {
+        width: 90%;
+        justify-content: center;
+        text-align: center;
+        align-items: center;
+
+    }
+
+    .cont2-2img {
+        width: 100%;
+        /* background-color: blue; */
+        height: auto;
+    }
+
+    .cont2-2img img {
+        width: 100%;
+        height: auto;
+    }
+
+    .cont2-3 {
+        flex-direction: column;
+        /* width: 100%; */
+    }
+
+    .cont2-3img {
+        width: 100%;
+        height: auto;
+    }
+
+    .cont2-3-1 {
+        width: 100%;
+        text-align: center;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .cont2-4,
+    .conts {
+        flex-direction: column;
+    }
+
+    .cont2-4img,
+    .deskbox {
+        width: 80%;
+        margin-bottom: 2rem;
+    }
+
+    .cont2-4-2,
+    .textbox {
+        width: 80%;
+        text-align: center;
+
+    }
+
+    .cont4 img {
+        width: 100%;
+        height: auto;
+    }
+
+    .cont6 img {
+        width: 100%;
+    }
+
+
+    .cont7img {
+        width: 100%;
+    }
+
+    .cont7-2 {
+        width: 100%;
+        align-items: center;
+        padding: 1rem;
+        text-align: center;
+        /* background-color: rebeccapurple; */
+    }
+
+
+}
+
+@media (max-width:600px) {
+    .foott h2 {
+        font-size: 6vw;
+        font-family: "Roboto";
+    }
+
+    h1,
+    h2 {
+
+        font-size: 5vw;
+    }
+
+    .img4 {
+        width: 3rem;
+    }
+
+    .bcimg {
+        width: 4rem;
+    }
+
+    .cont2-1 p {
+        font-size: 0.8rem;
+    }
+
+    p {
+        font-size: 0.8rem;
+    }
+
+    .cont2-3 h1 {
+        margin-bottom: 0rem;
+        line-height: 1;
+
+    }
+
+    .cont2-3img img {
+        width: 100%;
+        height: auto;
+    }
+
+    .cont6b {
+        height: auto;
+        margin: 1rem;
+    }
+}
